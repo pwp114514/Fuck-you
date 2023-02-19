@@ -50,7 +50,7 @@ jobs:
           haxelib install newgrounds 1.3.0
           haxelib install hscript
           haxelib install flixel-addons
-          haxelib git linc_luajit https://github.com/Sirox228/linc_luajit
+          haxelib git linc_luajit https://github.com/Majigsaw77/linc_luajit
           haxelib git extension-androidtools https://github.com/MAJigsaw77/extension-androidtools
           haxelib list
       - name: Create Version Tag
